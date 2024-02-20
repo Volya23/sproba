@@ -1,0 +1,11 @@
+POST http://localhost:5500/api/ HTTP/1.1
+Content-Type: application/json
+
+{
+    "firstName": "Volga",
+    "lastName": "Kryzhanivska",
+    "email": "nas@gmail.com",
+    "password": "12234huifh",
+    "gender": "woman",
+    "birthday": "1988-09-20",
+}
