@@ -1,4 +1,4 @@
-POST http://localhost:5500/api/ HTTP/1.1
+POST http://localhost:5500/api/user/ HTTP/1.1
 Content-Type: application/json
 
 {
@@ -7,5 +7,5 @@ Content-Type: application/json
     "email": "nas@gmail.com",
     "password": "12234huifh",
     "gender": "woman",
-    "birthday": "1988-09-20",
+    "birthday": "1988-09-20"
 }
